@@ -1,3 +1,5 @@
+# java count program implemented in Cloudera (Hadoop)
+
 import java.util.Scanner;
  
 public class Count_Words
@@ -60,6 +62,9 @@ public class Count_Words
         return uniqueKeys;
     }
 }
+
+
+
 OutPut:
 
 Java
